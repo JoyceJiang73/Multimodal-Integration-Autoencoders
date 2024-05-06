@@ -6,7 +6,7 @@ The multimodal integration pipeline comes with two steps:
 1. **S2S-RNN-Autoencoder:** Vectorizes each modality separately (e.g., facial AUs and fNIRS) to the unimodal embeddings.
 2. **FCN-Autoencoder:** Integrates the vectorized unimodal embeddings.
 
-![Architecture for Multimodal Data Processing]([URL_TO_YOUR_IMAGE.png]([https://github.com/JoyceJiang73/Multimodal-Integration-Autoencoders/blob/main/Autoencoders.png](https://github.com/JoyceJiang73/Multimodal-Integration-Autoencoders/blob/main/Autoencoders.png?raw=true)))
+![Architecture for Multimodal Data Processing](https://github.com/JoyceJiang73/Multimodal-Integration-Autoencoders/blob/main/Autoencoders.png?raw=true)
 
 ## Data Preprocess
 This [notebook](https://github.com/JoyceJiang73/Multimodal-Integration-Autoencoders/blob/main/Data%20Preprocessing.ipynb) illustrates how to reshape extracted features to be prepared for S2S-RNN-Autoencoders.
