@@ -7,7 +7,7 @@ The multimodal integration pipeline comes with two steps:
 2. **FCN-Autoencoder:** Integrates the vectorized unimodal embeddings.
 
 ## Data Preprocess
-This notebook illustrates how to reshape extracted features to be prepared for S2S-RNN-Autoencoders.
+This [notebook](https://github.com/JoyceJiang73/Multimodal-Integration-Autoencoders/blob/main/Data%20Preprocessing.ipynb) illustrates how to reshape extracted features to be prepared for S2S-RNN-Autoencoders.
 
 ## Autoencoder 
-This notebook contains the two models for unimodal and multimodal processing.
+This [notebook](https://github.com/JoyceJiang73/Multimodal-Integration-Autoencoders/blob/main/Autoencoders%20(Unimodal%20and%20Multimodal).ipynb) contains the two models for unimodal and multimodal processing.
